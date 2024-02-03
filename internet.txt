@@ -1,0 +1,15 @@
+
+#SUMMARY OF THE INTERNET
+
+	The Internet functions as a global network of interconnected computers and devices. 
+Information is exchanged using standardized protocols, such as TCP/IP. Data is broken
+into packets, which are routed through a series of interconnected routers and switches.
+The Domain Name System (DNS) translates human-readable domain names into IP addresses,
+facilitating communication between devices. DNS requests play a crucial role in this
+translation process. Security measures like firewalls ensure protection against unauthorized
+access, and HTTPS/SSL protocols encrypt data for secure transmission. Load-balancers distribute
+network or application traffic across multiple servers to enhance performance and reliability.
+Web servers handle requests from browsers, while application servers execute application-specific
+tasks. Databases store and manage structured data.
+	The decentralised architecture of the internet fosters global communication, collaboration, 
+and the secure exchange of information.

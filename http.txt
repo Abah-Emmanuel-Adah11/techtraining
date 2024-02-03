@@ -1,0 +1,6 @@
+
+#SUMMARY OF HTTP
+
+
+	HTTP which is also known as, Hypertext Transfer Protocol, is a fundamental protocol used for communication on the World Wide Web. It defines how messages are formatted and transmitted, enabling the exchange of text, images, videos, and other multimedia between web browsers and servers.
+	HTTP operates on a client-server model, where a client (usually a web browser) requests resources, and a server provides them. It is the foundation for data communication on the web, allowing users to access and interact with content seamlessly.

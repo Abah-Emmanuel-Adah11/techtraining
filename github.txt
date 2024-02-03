@@ -1,0 +1,6 @@
+#SUMMARY OF GITHUB
+
+
+
+	GitHub is a web-based platform that serves as a hosting service for version control using Git. It encourages and fast-track collaboration among software developers by providing tools for managing source code repositories. Developers use GitHub to store and share their code, track changes, manage issues, and collaborate on projects. 
+	GitHub enhances teamwork through features like pull requests, branching, and issue tracking. It is widely used for open-source projects and serves as a social platform for developers to showcase their work, contribute to others' projects, and to also  build a community around coding projects.
